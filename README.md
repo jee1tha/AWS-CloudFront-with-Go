@@ -1,4 +1,4 @@
-# AWS-CloudFront-with-Go
+# Generating AWS Cloudfront signed url for a s3 private bucket
 
 This Go application generates a signed URL for AWS CloudFront, allowing controlled access to private content stored on S3 through CloudFront distribution.
 
